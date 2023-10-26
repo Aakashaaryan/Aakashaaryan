@@ -11,11 +11,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sky_aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sky_aaryan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakashaaryan1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/aakash aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash aaryan" height="30" width="40" /></a>
-<a href="https://fb.com/aakash aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash aaryan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aakash.aaryan.718/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash aaryan" height="30" width="40" /></a>
 <a href="https://instagram.com/sky.aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky.aaryan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aakash aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakash aaryan" height="30" width="40" /></a>
+<a href="https://leetcode.com/Aakash_Aaryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakash aaryan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/YmxUpPs7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YmxUpPs7" height="30" width="40" /></a>
 </p>
 
