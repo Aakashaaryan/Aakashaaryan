@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashaaryan&label=Profile%20views&color=0e75b6&style=flat" alt="aakashaaryan" /> </p>
 
-- 💬 Ask me about **Mechanical engineering related problems,HTML,CSS,JS,PYTHON,ML..etc**
-
 - 📫 How to reach me **aakashaaryan700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
